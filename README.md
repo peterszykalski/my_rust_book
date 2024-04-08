@@ -1,2 +1,3 @@
 # my_rust_book
-my personal rust book
+My personal rust book.
+The aim of this book is go along with the "Rust Book" chapter by chapter.
